@@ -1,0 +1,28 @@
+body{
+    background-image: url("shop.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.night{
+    height: 300px;
+    width:300px;
+    background-image: url("unicorn light.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    display:block;
+    margin-left:auto;
+    margin-right: auto;
+}
+#myButton{
+    background-color: black;
+    color:white;
+}
+button {
+    display:block;
+    margin-left:auto;
+    margin-right: auto;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}

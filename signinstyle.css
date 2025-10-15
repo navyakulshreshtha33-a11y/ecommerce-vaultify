@@ -1,0 +1,30 @@
+h1{
+    text-decoration: underline;
+
+}
+.logosign{
+    display:inline-block;
+    background-image: url("vaultify logo.jpg");
+   background-size:contain;
+   background-repeat:no-repeat;
+    height:50px;
+    width:100%;
+}
+.border{
+    border: 1.5px solid transparent;
+}
+.border:hover{
+    border:1.5px solid white;
+}
+.signin{
+    text-align: center;
+}
+button{
+    color:blueviolet;
+}
+body{
+    background-image: url("signin image.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
